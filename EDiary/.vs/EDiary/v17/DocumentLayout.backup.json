@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\EDiary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F51C74-FA38-4CB9-9AA3-6B65464CACDA}|EDiary\\EDiary.csproj|c:\\users\\user\\desktop\\ediary\\ediary\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0F51C74-FA38-4CB9-9AA3-6B65464CACDA}|EDiary\\EDiary.csproj|solutionrelative:ediary\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F51C74-FA38-4CB9-9AA3-6B65464CACDA}|EDiary\\EDiary.csproj|c:\\users\\user\\desktop\\ediary\\ediary\\controllers\\noauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F51C74-FA38-4CB9-9AA3-6B65464CACDA}|EDiary\\EDiary.csproj|solutionrelative:ediary\\controllers\\noauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F51C74-FA38-4CB9-9AA3-6B65464CACDA}|EDiary\\EDiary.csproj|c:\\users\\user\\desktop\\ediary\\ediary\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F51C74-FA38-4CB9-9AA3-6B65464CACDA}|EDiary\\EDiary.csproj|solutionrelative:ediary\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F51C74-FA38-4CB9-9AA3-6B65464CACDA}|EDiary\\EDiary.csproj|c:\\users\\user\\desktop\\ediary\\ediary\\views\\home\\viewpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0F51C74-FA38-4CB9-9AA3-6B65464CACDA}|EDiary\\EDiary.csproj|solutionrelative:ediary\\views\\home\\viewpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F51C74-FA38-4CB9-9AA3-6B65464CACDA}|EDiary\\EDiary.csproj|c:\\users\\user\\desktop\\ediary\\ediary\\views\\home\\createedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0F51C74-FA38-4CB9-9AA3-6B65464CACDA}|EDiary\\EDiary.csproj|solutionrelative:ediary\\views\\home\\createedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F51C74-FA38-4CB9-9AA3-6B65464CACDA}|EDiary\\EDiary.csproj|c:\\users\\user\\desktop\\ediary\\ediary\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0F51C74-FA38-4CB9-9AA3-6B65464CACDA}|EDiary\\EDiary.csproj|solutionrelative:ediary\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F51C74-FA38-4CB9-9AA3-6B65464CACDA}|EDiary\\EDiary.csproj|c:\\users\\user\\desktop\\ediary\\ediary\\views\\noauth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0F51C74-FA38-4CB9-9AA3-6B65464CACDA}|EDiary\\EDiary.csproj|solutionrelative:ediary\\views\\noauth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F51C74-FA38-4CB9-9AA3-6B65464CACDA}|EDiary\\EDiary.csproj|c:\\users\\user\\desktop\\ediary\\ediary\\views\\noauth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0F51C74-FA38-4CB9-9AA3-6B65464CACDA}|EDiary\\EDiary.csproj|solutionrelative:ediary\\views\\noauth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoAuth.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EDiary\\EDiary\\Controllers\\NoAuth.cs",
+              "RelativeDocumentMoniker": "EDiary\\Controllers\\NoAuth.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EDiary\\EDiary\\Controllers\\NoAuth.cs*",
+              "RelativeToolTip": "EDiary\\Controllers\\NoAuth.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:26:08.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EDiary\\EDiary\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EDiary\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EDiary\\EDiary\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "EDiary\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T18:03:33.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EDiary\\EDiary\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EDiary\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EDiary\\EDiary\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "EDiary\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwCgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:12:02.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EDiary\\EDiary\\Views\\Home\\ViewPage.cshtml",
+              "RelativeDocumentMoniker": "EDiary\\Views\\Home\\ViewPage.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EDiary\\EDiary\\Views\\Home\\ViewPage.cshtml",
+              "RelativeToolTip": "EDiary\\Views\\Home\\ViewPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T18:23:13.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EDiary\\EDiary\\Views\\Home\\CreateEdit.cshtml",
+              "RelativeDocumentMoniker": "EDiary\\Views\\Home\\CreateEdit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EDiary\\EDiary\\Views\\Home\\CreateEdit.cshtml",
+              "RelativeToolTip": "EDiary\\Views\\Home\\CreateEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T18:23:00.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notfound.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EDiary\\EDiary\\Views\\Home\\Notfound.cshtml",
+              "RelativeDocumentMoniker": "EDiary\\Views\\Home\\Notfound.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EDiary\\EDiary\\Views\\Home\\Notfound.cshtml",
+              "RelativeToolTip": "EDiary\\Views\\Home\\Notfound.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T18:21:49.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EDiary\\EDiary\\Views\\NoAuth\\Signup.cshtml",
+              "RelativeDocumentMoniker": "EDiary\\Views\\NoAuth\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EDiary\\EDiary\\Views\\NoAuth\\Signup.cshtml",
+              "RelativeToolTip": "EDiary\\Views\\NoAuth\\Signup.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T18:21:10.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\EDiary\\EDiary\\Views\\NoAuth\\Login.cshtml",
+              "RelativeDocumentMoniker": "EDiary\\Views\\NoAuth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\EDiary\\EDiary\\Views\\NoAuth\\Login.cshtml",
+              "RelativeToolTip": "EDiary\\Views\\NoAuth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T18:13:19.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

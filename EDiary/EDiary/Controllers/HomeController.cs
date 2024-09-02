@@ -18,10 +18,37 @@ namespace EDiary.Controllers
             return View();
         }
 
+        public IActionResult CreateEditNote()
+        {
+            if (id != null) {
+                var noteInDb = _context.Notes.SingleOrDefault(note => note.Id == id);
+                return View(noteInDb);
+            }
+
+            return View();
+        }
+
+        public IActionResult ViewPage()
+        {
+            return View();
+        }
+
+        public IActionResult Notfound()
+        {
+            return View();
+        }
+
+        public IActionResult CreateEdit()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
         }
+
+       
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

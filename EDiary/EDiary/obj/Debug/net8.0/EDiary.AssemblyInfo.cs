@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EDiary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd260ee0fc46c5e0ac5fe3c7250159a7958465c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+642c7920c496de9cb4e30feaa3a23eeaccba13d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("EDiary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EDiary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
